@@ -1,0 +1,28 @@
+1. ionic cordova plugin add cordova-plugin-file
+npm install @ionic-native/file
+
+2. ionic cordova plugin add integrator-cordova-plugin-downloader
+npm install @ionic-native/downloader
+
+3. ionic cordova plugin add cordova-plugin-zip
+npm install @ionic-native/zip
+
+4. ionic cordova plugin add cordova-plugin-file-transfer
+npm install @ionic-native/file-transfer
+
+5. npm install angular-ionic-unzip
+
+6. npm i cordova-plugin-file-downloader
+
+7. ionic cordova plugin add cordova-plugin-filepath
+npm install @ionic-native/file-path
+
+8. cordova plugin add cordova-zip-plugin
+
+9. npm i cordova-zip-plugin 
+
+10. ionic cordova plugin add cordova-plugin-file-opener2
+npm install @ionic-native/file-opener
+
+11. ionic cordova plugin add cordova-plugin-inappbrowser
+npm install @ionic-native/in-app-browser

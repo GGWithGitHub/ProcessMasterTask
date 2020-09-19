@@ -1,0 +1,7 @@
+{
+  "name": "OpenWeb_PM",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
